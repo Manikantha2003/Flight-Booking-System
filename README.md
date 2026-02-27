@@ -78,7 +78,7 @@ Open using Eclipse or VS Code.
 ### 3. Configure Database
 Update `application.properties`:
 
-### 4️. Run Application
+### 4. Run Application
 Run:FlightBookingApplication.java
 
 Server starts at:http://localhost:8080
